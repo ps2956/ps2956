@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ps2956/ps2956/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ps2956/workflow/output/snake.svg" alt="Snake animation" />
 
 ###
